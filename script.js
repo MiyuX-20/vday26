@@ -38,7 +38,7 @@ noBtn.addEventListener("mouseover", () => {
 
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "hehehe I wuv youuuuu!";
+    title.textContent = "i love you from my head to-ma-toes!";
 
     catImg.src = "cat_dance.gif";
 
